@@ -26,7 +26,7 @@ This project demonstrates basic character movement mechanics in Unity. It includ
 
 Here’s a preview of the game in action:
 
-![Game Preview](assets/preveiw-1.png)
+![Game Preview](./assets/preveiw-1.png)
 
 ## Requirements
 
