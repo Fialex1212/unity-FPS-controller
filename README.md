@@ -18,16 +18,16 @@ This project demonstrates basic character movement mechanics in Unity. It includ
 
 ## How to Play
 
-1. Clone the repository or download the project.
-2. Open the project in Unity.
-3. Play the scene to control the character using the listed controls.
+1. Download the repository.
+2. Unpack the files.
+3. Build and run the game by executing `survival.exe`.
+
+## Preview
+
+Here’s a preview of the game in action:
+
+![Game Preview](assets/preveiw-1.png)
 
 ## Requirements
 
-- Unity 2020.3 or later
-- A PC or Mac to run Unity Editor
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
+- A PC running Windows, Mac or Linux.
