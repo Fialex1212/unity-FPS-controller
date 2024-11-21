@@ -22,12 +22,12 @@ This project demonstrates basic character movement mechanics in Unity. It includ
 2. Unpack the files.
 3. Build and run the game by executing `survival.exe`.
 
+## Requirements
+
+- A PC running Windows, Mac or Linux.
+
 ## Preview
 
 Here’s a preview of the game in action:
 
 ![Game Preview](./assets/preview-1.png)
-
-## Requirements
-
-- A PC running Windows, Mac or Linux.
