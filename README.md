@@ -1,4 +1,4 @@
-# Unity Walking, Running, Jumping, and Crouching Game
+# Unity FPS controller
 
 This project demonstrates basic character movement mechanics in Unity. It includes functionality for walking, running, jumping, and crouching, allowing the player to control a character in a simple 3D environment.
 
